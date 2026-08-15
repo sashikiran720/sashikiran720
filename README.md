@@ -161,9 +161,10 @@ A full-stack web application featuring interactive earning experiences and multi
 <h2 align="center">📈 Contribution Activity</h2>
 
 <img
-  src="https://streak-stats.demolab.com/?user=sashikiran720&theme=github-dark-blue&hide_border=true&v=2"
-  alt="GitHub Streak"
-/>
+  src="https://github-readme-activity-graph.vercel.app/graph?username=sashikiran720&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&hide_border=true"
+    width="95%"
+    alt="Contribution Activity Graph"
+  />
 </p>
 
 <br>
