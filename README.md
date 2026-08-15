@@ -158,7 +158,7 @@ A full-stack web application featuring interactive earning experiences and multi
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sashikiran720&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&area_color=1F6FEB&hide_border=true&radius=10" width="95%" alt="Contribution Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sashikiran720&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&area_color=1F6FEB&hide_border=true&radius=10&v=20260815" width="95%" alt="Contribution Activity Graph">
 </p>
 
 <br>
