@@ -175,10 +175,6 @@ A full-stack web application featuring interactive earning experiences and multi
   />
 </p>
 
--->
-
-<br>
-
 <!-- ===================== AREAS OF INTEREST ===================== -->
 
 <h2 align="center">💡 Areas of Interest</h2>
