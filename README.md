@@ -148,7 +148,10 @@ A full-stack web application featuring interactive earning experiences and multi
 <h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sashikiran720&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak">
+  <img
+  src="https://streak-stats.demolab.com/?user=sashikiran720&theme=github-dark-blue&hide_border=true&v=2"
+  alt="GitHub Streak"
+/>
 </p>
 
 <br>
