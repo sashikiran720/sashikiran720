@@ -1,46 +1,47 @@
-Hi, I'm Sashikiran 👋
+👋 Hi, I'm Sashikiran
 
-IT Student | Full-Stack Developer | Tech Enthusiast
+💻 IT Student • Full-Stack Developer • Technology Enthusiast
 
-I'm an Information Technology student at RVR & JC College of Engineering, interested in building real-world software and learning modern web technologies.
+I'm an Information Technology student at RVR & JC College of Engineering who enjoys building practical applications and learning modern software technologies.
 
-I enjoy turning ideas into working applications and exploring full-stack development, real-time applications, cybersecurity, and cloud technologies.
+I’m particularly interested in full-stack development, real-time applications, cybersecurity, and cloud technologies.
 
 ---
 
-🚀 What I'm Working On
+🚀 About Me
 
-- 🌐 Building full-stack web applications
-- 🎮 Developing multiplayer applications and games
-- 🔐 Learning cybersecurity and web security
-- ☁️ Exploring cloud platforms and deployment
+- 🎓 Information Technology Student
+- 💻 Interested in Full-Stack Development
+- 🌐 Building real-world web applications
+- 🎮 Working with multiplayer and real-time applications
+- 🔐 Exploring Cybersecurity & Web Security
 - 📚 Strengthening Data Structures & Algorithms
-- 💻 Improving my TypeScript, JavaScript and backend development skills
+- ☁️ Learning Cloud & Deployment technologies
 
 ---
 
-🛠️ Tech Stack
+🛠️ Technologies & Tools
 
-Languages
+💻 Programming Languages
 
 "C" (https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 "Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 "JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 "TypeScript" (https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-Frontend
+🌐 Frontend
 
 "HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 "CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 "React" (https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-Backend & Database
+⚙️ Backend & Database
 
 "Node.js" (https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 "Firebase" (https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 "PostgreSQL" (https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Tools & Platforms
+🔧 Tools & Platforms
 
 "Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 "GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -53,48 +54,56 @@ Tools & Platforms
 
 💰 Mana Earn
 
-A full-stack web application focused on interactive earning features.
+A full-stack web application featuring interactive earning experiences and multiplayer functionality.
 
-Key areas:
+Highlights
 
-- 🔐 Authentication & user accounts
-- 💰 Wallet and transaction system
+- 🔐 User authentication
+- 💰 Wallet & transaction system
 - 🎮 Multiplayer Ludo
-- ⚡ Real-time game communication
+- ⚡ Real-time communication
 - 👥 Role-based administration
-- 📊 User and admin management
+- 📊 User & admin management
 - 📱 Responsive web interface
 
-Technologies: TypeScript, React, Node.js, Firebase, PostgreSQL and WebSockets.
+Built with: TypeScript • React • Node.js • Firebase • PostgreSQL • WebSockets
 
 ---
 
 🎯 Currently Learning
 
-- Data Structures & Algorithms
-- Advanced TypeScript
-- Full-Stack Development
-- Web Security
-- Cybersecurity
-- Cloud & Deployment
-- System Design
+Data Structures & Algorithms
+        ↓
+Advanced TypeScript
+        ↓
+Full-Stack Development
+        ↓
+Web Security & Cybersecurity
+        ↓
+Cloud & Deployment
 
 ---
 
-📈 My Goals
+📌 Areas of Interest
 
-«Build useful software, understand how systems work, and continuously improve as a developer.»
-
-I'm currently focused on becoming a strong full-stack developer while developing a solid foundation in computer science and cybersecurity.
+"Full-Stack Development" "Web Development" "Cybersecurity"
+"Real-Time Applications" "Cloud Computing" "Data Structures"
+"Software Engineering" "Open Source"
 
 ---
 
-🤝 Let's Connect
+📊 GitHub
 
-If you're interested in technology, development, or collaborating on projects, feel free to connect with me.
+I'm continuously working on projects, improving my programming skills, and exploring new technologies.
 
-""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/sashikiran720)
+---
+
+🤝 Connect With Me
+
+""GitHub" (https://img.shields.io/badge/GitHub-sashikiran720-181717?style=for-the-badge&logo=github)" (https://github.com/sashikiran720)
 
 ---
 
 ⭐ Thanks for visiting my profile!
+
+Keep learning. Keep building. Keep improving. 🚀
