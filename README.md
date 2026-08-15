@@ -127,18 +127,22 @@ A full-stack web application featuring interactive earning experiences and multi
 
 <br>
 
-<!-- ===================== GITHUB STATISTICS ===================== -->
+<!-- ===================== GITHUB ANALYTICS ===================== -->
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <a href="https://github.com/sashikiran720">
-    <img src="https://github-readme-stats.vercel.app/api?username=sashikiran720&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E&bg_color=0D1117" height="180" alt="GitHub Stats">
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sashikiran720&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E"
+    height="180"
+    alt="GitHub Statistics"
+  />
 
-  <a href="https://github.com/sashikiran720">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashikiran720&layout=compact&langs_count=8&hide_border=true&title_color=58A6FF&text_color=8B949E&bg_color=0D1117" height="180" alt="Top Languages">
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashikiran720&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 <br>
