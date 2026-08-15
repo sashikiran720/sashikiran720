@@ -174,10 +174,7 @@ A full-stack web application featuring interactive earning experiences and multi
     alt="Animated GitHub Contribution Snake"
   />
 </p>
-========================================================
 
-
-========================================================
 -->
 
 <br>
