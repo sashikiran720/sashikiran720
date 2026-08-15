@@ -133,13 +133,13 @@ A full-stack web application featuring interactive earning experiences and multi
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=sashikiran720&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E"
+    src="https://github-stats-extended.vercel.app/api?username=sashikiran720&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=1F6FEB&text_color=8B949E"
     height="180"
     alt="GitHub Statistics"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sashikiran720&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=sashikiran720&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E"
     height="180"
     alt="Top Languages"
   />
