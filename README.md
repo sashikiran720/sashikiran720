@@ -175,44 +175,7 @@ A full-stack web application featuring interactive earning experiences and multi
   />
 </p>
 ========================================================
-SNAKE GITHUB ACTION
 
-Create:
-
-.github/workflows/snake.yml
-
-Paste:
-
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Publish Snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
-          branch: output
-        env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
 
 ========================================================
 -->
